@@ -31,6 +31,7 @@
         }
     ],
     "start_url": "https://facefacultyapp.herokuapp.com/",
+    "scope": "/",
     "display": "standalone",
     "theme_color": "#ffffff",
     "background_color": "#ffffff"
