@@ -30,7 +30,7 @@
             "sizes": "512x512"
         }
     ],
-    "start_url": "https://facefacultyapp.herokuapp.com/",
+    "start_url": "index.html",
     "scope": "/",
     "display": "standalone",
     "theme_color": "#ffffff",
