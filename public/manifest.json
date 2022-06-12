@@ -30,7 +30,7 @@
             "sizes": "512x512"
         }
     ],
-    "start_url": "/",
+    "start_url": "https://backend-faceapp.herokuapp.com",
     "display": "standalone",
     "theme_color": "#ffffff",
     "background_color": "#ffffff"
